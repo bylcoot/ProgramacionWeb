@@ -1,0 +1,9 @@
+/src
+  /componentes
+      Heater.astro
+      footer.astro
+
+  /Layout
+      Layout.astro
+
+/pages
